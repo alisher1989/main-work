@@ -1,0 +1,53 @@
+[
+{
+  "model": "webapp.article",
+  "pk": 2,
+  "fields": {
+    "title": "Another one",
+    "text": "Another Article",
+    "author": "Me",
+    "created_at": "2019-09-03T14:06:44.039Z",
+    "updated_at": "2019-09-03T14:06:44.040Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 3,
+  "fields": {
+    "title": "Article 3",
+    "text": "Article 3",
+    "author": "He",
+    "created_at": "2019-09-03T14:10:09.077Z",
+    "updated_at": "2019-09-03T14:10:09.077Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 4,
+  "fields": {
+    "title": "Title",
+    "text": "text",
+    "author": "Test",
+    "created_at": "2019-09-03T14:44:28.802Z",
+    "updated_at": "2019-09-03T14:44:28.802Z"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$KdlXRuxNm7dp$u29Ry9HdCTF7r/lk+7KwEJeDRVtaYLzLyp+FEbFmdSY=",
+    "last_login": "2019-09-03T14:39:10.680Z",
+    "is_superuser": true,
+    "username": "alish",
+    "first_name": "",
+    "last_name": "",
+    "email": "shera.rashiduulu@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2019-09-03T14:38:53.579Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
